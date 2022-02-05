@@ -1,0 +1,1 @@
+"write a python program 1 to 10 and 1 should be +1 and all print -."
